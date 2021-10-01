@@ -12,7 +12,6 @@ h2{
 }
 .half-width{
     float: left;
-   
 }
 .name-highlight{
     color: rebeccapurple;
@@ -45,9 +44,9 @@ p{
     color:rosybrown;
 }
 .dream-area{
-background-image: url("image/2.png")
+background-image: url("img/2.png");
 background-repeat: no-repeat;
-background-position: :right;
+background-position: right;
 }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
